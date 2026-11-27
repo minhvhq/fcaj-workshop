@@ -29,7 +29,6 @@ chapter: false
 
 &emsp; **Dự án nhóm:** Ask First (Hỏi Trước), vai trò AI2
 
-<!-- NHÁP: Minh thay ảnh đại diện thật vào static/images/avatar.png -->
 ![Ảnh đại diện của Võ Hoàng Quốc Minh](/images/avatar.png)
 
 ### Nội dung báo cáo

@@ -29,7 +29,6 @@ chapter: false
 
 &emsp; **Team project:** Ask First (Hỏi Trước), role AI2
 
-<!-- NHÁP: Minh replaces static/images/avatar.png with a real profile photo -->
 ![Profile picture of Vo Hoang Quoc Minh](/images/avatar.png)
 
 ### Report Content
