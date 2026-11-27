@@ -16,7 +16,7 @@ Cách tôi ghi nhật ký:
 
 | Tuần | Thời gian | Nội dung chính |
 | --- | --- | --- |
-| 1 | 14–18/09 | [Khởi động FCAJ, bộ công cụ lập trình và tài khoản AWS qua SSO](1.1-week1/) |
+| 1 | 14–18/09 | [Khởi động FCAJ, bộ công cụ lập trình, IAM user và AWS CLI](1.1-week1/) |
 | 2 | 21–25/09 | [S3, DynamoDB, KMS và Parameter Store; dự Buildrathon Kickoff](1.2-week2/) |
 | 3 | 28/09–02/10 | [Container, Lambda và hàng đợi; xem AWS Cloud & AI Day](1.3-week3/) |
 | 4 | 05–09/10 | [Vào nhóm Ask First với vai AI2, khảo sát OCR tiếng Việt](1.4-week4/) |

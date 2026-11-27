@@ -16,7 +16,7 @@ How this worklog is written:
 
 | Week | Dates | Main content |
 | --- | --- | --- |
-| 1 | 14–18/09 | [Starting FCAJ, a developer toolchain and an AWS account via SSO](1.1-week1/) |
+| 1 | 14–18/09 | [Starting FCAJ, a developer toolchain, an IAM user and the AWS CLI](1.1-week1/) |
 | 2 | 21–25/09 | [S3, DynamoDB, KMS and Parameter Store; attending the Buildrathon Kickoff](1.2-week2/) |
 | 3 | 28/09–02/10 | [Containers, Lambda and queues; watching AWS Cloud & AI Day](1.3-week3/) |
 | 4 | 05–09/10 | [Joining Ask First as AI2, surveying Vietnamese OCR](1.4-week4/) |
