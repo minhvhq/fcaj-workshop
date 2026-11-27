@@ -16,11 +16,11 @@ pre: " <b> 1.9. </b> "
 
 | Day | Task | Start date | Completion date | Reference |
 | --- | --- | --- | --- | --- |
-| Mon | - Build a corpus of scam warnings from `.gov.vn` sites and newspapers for RAG <!-- NHÁP: không có commit 09/11, ngày bắt đầu tự điền --> | 09/11/2026 | 11/11/2026 | [kb/alerts.yaml](https://github.com/ask-first-fcaj/ask-first/blob/main/kb/alerts.yaml) |
-| Tue | - Write the e5-small int8 embedder, `build_index.py` and the retriever; measure Recall@4 <!-- NHÁP: không có commit 10/11, ngày bắt đầu tự điền --> | 10/11/2026 | 11/11/2026 | [PR #147](https://github.com/ask-first-fcaj/ask-first/pull/147) |
+| Mon | - Build a corpus of scam warnings from `.gov.vn` sites and newspapers for RAG | 09/11/2026 | 11/11/2026 | [kb/alerts.yaml](https://github.com/ask-first-fcaj/ask-first/blob/main/kb/alerts.yaml) |
+| Tue | - Write the e5-small int8 embedder, `build_index.py` and the retriever; measure Recall@4 | 10/11/2026 | 11/11/2026 | [PR #147](https://github.com/ask-first-fcaj/ask-first/pull/147) |
 | Wed | - Open and merge local RAG (#147) <br> - Hand-score 20 AI-11 samples with the rubric, before looking at the LLM scores (#146) <br> - Open the PR wiring RAG into `RealPipeline` + artifact upload script (#151) and the CI eval gate PR (#153) <br> - Review AI1's batch of PRs: Bedrock Qwen3 32B spike (#132), 4-model benchmark (#133), `outputConfig` (#134), Guardrails (#135), LLM-as-a-judge (#136), red-team (#137), Gemini reference (#141), fallback model (#142), judge fixes (#144, #145 approved), OTP/ID-card rules (#149), G1 hand scoring (#150) | 11/11/2026 | 11/11/2026 | [PR #146](https://github.com/ask-first-fcaj/ask-first/pull/146), [PR #147](https://github.com/ask-first-fcaj/ask-first/pull/147), [#151](https://github.com/ask-first-fcaj/ask-first/pull/151), [#153](https://github.com/ask-first-fcaj/ask-first/pull/153) |
 | Thu | - Fix after review and merge #151, #153; the eval gate ran for real on a PR and commented a comparison table | 12/11/2026 | 12/11/2026 | [PR #151](https://github.com/ask-first-fcaj/ask-first/pull/151), [PR #153](https://github.com/ask-first-fcaj/ask-first/pull/153) |
-| Fri | - Start the bot message wording (SH-08) using a reading sheet for older users <!-- NHÁP: không có commit 13/11, Minh kiểm lại --> | 13/11/2026 | 13/11/2026 | [PR #157](https://github.com/ask-first-fcaj/ask-first/pull/157) |
+| Fri | - Start the bot message wording (SH-08) using a reading sheet for older users | 13/11/2026 | 13/11/2026 | [PR #157](https://github.com/ask-first-fcaj/ask-first/pull/157) |
 | Sat | - Review 2 BE2 PRs: the "Bot was wrong" flow (BE-30, #155) and `/rutdongy` data deletion (BE-31, #156) | 14/11/2026 | 14/11/2026 | [#155](https://github.com/ask-first-fcaj/ask-first/pull/155), [#156](https://github.com/ask-first-fcaj/ask-first/pull/156) |
 
 ### Results

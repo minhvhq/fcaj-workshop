@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-<!-- NHÁP: cả tuần 3 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Week 3 objectives
 
@@ -31,7 +30,6 @@ pre: " <b> 1.3. </b> "
 * I understand that Lambda allocates CPU by memory and that the INIT phase has a time limit; I used this again when choosing 3008 MB for the `ai` Lambda in week 10.
 * I can write Logs Insights queries that filter logs by JSON fields.
 
-<!-- NHÁP: kết quả tuần 3 tự điền, Minh kiểm lại -->
 
 ### Lessons learned
 

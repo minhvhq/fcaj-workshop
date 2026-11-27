@@ -10,7 +10,6 @@ pre: " <b> 1.12. </b> "
 Week 12 is a **plan**, written before 30/11/2026. The items below have not happened yet and will be updated later.
 {{% /notice %}}
 
-<!-- NHÁP: toàn bộ tuần 12 là kế hoạch, Minh cập nhật kết quả thật sau khi làm -->
 
 ### Week 12 objectives
 

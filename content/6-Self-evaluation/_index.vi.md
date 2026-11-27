@@ -21,7 +21,6 @@ Bảng dưới là tự đánh giá theo 8 tiêu chí của FCAJ. Tôi cố ghi 
 | 7 | Giải quyết vấn đề | Tốt | Thay vì đổi model OCR, tôi dùng hai model, mỗi model làm phần nó giỏi, ghép theo từng từ. Tín hiệu luật bị mất giảm từ 15/33 xuống 6/33, URL và số điện thoại giữ nguyên. Sửa lỗi tên miền bị xuống dòng sau dấu gạch ([PR #176](https://github.com/ask-first-fcaj/ask-first/pull/176)). |
 | 8 | Đóng góp cho Workshop | Khá | Đóng góp phần nối pipeline thật, nạp model từ S3 và môi trường AWS để nhóm demo và viết workshop. Phần viết workshop chủ yếu do bạn khác đảm nhận. |
 
-<!-- NHÁP: Minh chỉnh lại mức và dẫn chứng (đặc biệt: PR vượt 300 dòng, chậm tuần đầu, số issue #42/#43/#85) trước khi nộp -->
 
 ### Điều tôi muốn cải thiện
 

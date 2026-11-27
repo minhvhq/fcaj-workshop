@@ -21,7 +21,6 @@ The table below is my self-assessment against the 8 FCAJ criteria. I tried to re
 | 7 | Problem solving | Good | Instead of replacing the OCR model, I used two models, each doing what it is good at, merged word by word. Lost rule signals dropped from 15/33 to 6/33 while URLs and phone numbers stayed intact. Fixed domains broken across lines after a hyphen ([PR #176](https://github.com/ask-first-fcaj/ask-first/pull/176)). |
 | 8 | Contribution to the Workshop | Fair | Contributed the real pipeline wiring, S3 model loading and the AWS environment the team uses to demo and write the workshop. Most of the workshop writing was done by a teammate. |
 
-<!-- NHÁP: Minh adjusts levels and evidence (especially: PRs over 300 lines, slow first week, issue numbers #42/#43/#85) before submitting -->
 
 ### What I want to improve
 

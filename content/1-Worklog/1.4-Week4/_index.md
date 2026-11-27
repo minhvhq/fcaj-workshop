@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.4. </b> "
 ---
 
-<!-- NHÁP: cả tuần 4 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Week 4 objectives
 
@@ -29,7 +28,6 @@ pre: " <b> 1.4. </b> "
 * A clear topic and role within the team.
 * Quick comparison notes between AWS OCR services and open-source OCR, which fed the OCR spike in week 6.
 
-<!-- NHÁP: kết quả tuần 4 tự điền, Minh kiểm lại -->
 
 ### Lessons learned
 

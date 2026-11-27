@@ -14,7 +14,6 @@ pre: " <b> 5.11. </b> "
 {{% notice info %}}
 Video demo: Minh bổ sung link (quay màn hình: gửi tin chữ, gửi ảnh, xem log trên CloudWatch).
 {{% /notice %}}
-<!-- NHÁP: thêm link video demo trước khi nộp -->
 
 Kịch bản demo tôi dùng, mỗi bước kèm chỗ để chứng minh trên AWS:
 

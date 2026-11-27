@@ -32,7 +32,6 @@ Sự kiện rơi vào đúng tuần tôi đang tự dựng môi trường AWS ch
 - **Biết ai làm gì trên account.** Khi nhiều người cùng dùng một môi trường, cần dấu vết để lần lại thay đổi.
 - Từ phần chia sẻ của các nhóm sinh viên: nhóm nào trình bày rõ thường cho xem số đo và lỗi đã gặp, không chỉ sơ đồ kiến trúc.
 
-<!-- NHÁP: nội dung tiếp thu cần Minh xác nhận -->
 
 ### Liên hệ với phần việc của tôi
 

@@ -10,7 +10,6 @@ pre: " <b> 1.12. </b> "
 Tuần 12 là **kế hoạch**, viết trước ngày 30/11/2026. Các mục dưới đây chưa diễn ra và sẽ được cập nhật sau.
 {{% /notice %}}
 
-<!-- NHÁP: toàn bộ tuần 12 là kế hoạch, Minh cập nhật kết quả thật sau khi làm -->
 
 ### Mục tiêu tuần 12
 

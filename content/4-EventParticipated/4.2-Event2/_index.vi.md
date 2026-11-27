@@ -32,7 +32,6 @@ Tôi xem sự kiện này với một câu hỏi trong đầu: khi nào nên đ�
 - **Mỗi bước phải đo được.** Khi hệ thống có nhiều bước, người ta cần biết bước nào làm sai, chứ không chỉ biết kết quả cuối sai.
 - **Chi phí đi theo từng lần gọi.** Một tính năng AI rẻ khi thử nhưng có thể đắt khi chạy thật nếu không tính trước số lần gọi model.
 
-<!-- NHÁP: nội dung tiếp thu cần Minh xác nhận -->
 
 ### Liên hệ với phần việc của tôi
 

@@ -39,7 +39,6 @@ Tháng 10, khi nhận spike OCR (AI-20), tôi bắt đầu từ bộ 50 ảnh c�
 - Dữ liệu kiểm tra nên có trước model.
 - Tập nói một việc kỹ thuật theo thứ tự: vấn đề, cách đo, kết quả.
 
-<!-- NHÁP: nội dung tiếp thu cần Minh xác nhận -->
 
 ### Ảnh check-in
 

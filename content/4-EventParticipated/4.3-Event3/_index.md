@@ -32,7 +32,6 @@ The event landed in the same week I was building the team's shared AWS environme
 - **Know who did what on the account.** When several people share one environment, you need a trail to trace changes.
 - From the student group presentations: the clearest teams showed measurements and the bugs they hit, not only an architecture diagram.
 
-<!-- NHÁP: takeaways need Minh's confirmation -->
 
 ### Connection to my work
 

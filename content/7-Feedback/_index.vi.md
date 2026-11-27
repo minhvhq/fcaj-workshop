@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-<!-- NHÁP: cảm nhận cá nhân, Minh đọc lại và sửa theo ý mình trước khi nộp -->
 
 ### Cảm nhận chung
 

@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.4. </b> "
 ---
 
-<!-- NHÁP: cả tuần 4 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Mục tiêu tuần 4
 
@@ -29,7 +28,6 @@ pre: " <b> 1.4. </b> "
 * Có đề tài và vai trò rõ ràng trong nhóm.
 * Ghi chú so sánh nhanh OCR dịch vụ AWS và OCR mã nguồn mở, là đầu vào cho spike OCR ở tuần 6.
 
-<!-- NHÁP: kết quả tuần 4 tự điền, Minh kiểm lại -->
 
 ### Bài học rút ra
 

@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
-<!-- NHÁP: cả tuần 5 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Mục tiêu tuần 5
 
@@ -29,7 +28,6 @@ pre: " <b> 1.5. </b> "
 * Bộ ảnh nháp và chữ đáp án sẵn sàng; 25 ảnh đầu tiên được đưa lên repo ở tuần 6 ([PR #96](https://github.com/ask-first-fcaj/ask-first/pull/96)).
 * Danh sách các kiểu PII và regex thử, là điểm bắt đầu cho mask PII ở tuần 7.
 
-<!-- NHÁP: kết quả tuần 5 tự điền (trừ link PR #96), Minh kiểm lại -->
 
 ### Bài học rút ra
 

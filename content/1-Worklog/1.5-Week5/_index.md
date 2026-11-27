@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
-<!-- NHÁP: cả tuần 5 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Week 5 objectives
 
@@ -29,7 +28,6 @@ pre: " <b> 1.5. </b> "
 * A draft image set with reference text is ready; the first 25 images were added to the repository in week 6 ([PR #96](https://github.com/ask-first-fcaj/ask-first/pull/96)).
 * A list of PII types and trial regexes, the starting point for PII masking in week 7.
 
-<!-- NHÁP: kết quả tuần 5 tự điền (trừ link PR #96), Minh kiểm lại -->
 
 ### Lessons learned
 

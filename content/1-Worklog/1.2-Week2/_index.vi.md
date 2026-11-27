@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-<!-- NHÁP: cả tuần 2 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Mục tiêu tuần 2
 
@@ -31,7 +30,6 @@ pre: " <b> 1.2. </b> "
 * Hiểu cách TTL của DynamoDB xoá item cũ mà không cần job dọn.
 * Có mẫu policy chỉ cấp `s3:GetObject`, `dynamodb:GetItem`/`PutItem` và `ssm:GetParameter`.
 
-<!-- NHÁP: kết quả tuần 2 tự điền, Minh kiểm lại -->
 
 ### Bài học rút ra
 

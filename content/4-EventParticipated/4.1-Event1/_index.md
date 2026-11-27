@@ -39,7 +39,6 @@ In October, when I took the OCR spike (AI-20), I started from a 50-image labelle
 - Test data should exist before the model.
 - Practise explaining technical work in order: problem, how it was measured, result.
 
-<!-- NHÁP: takeaways need Minh's confirmation -->
 
 ### Check-in photos
 

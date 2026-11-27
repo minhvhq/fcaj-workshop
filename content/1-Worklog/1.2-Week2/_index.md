@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-<!-- NHÁP: cả tuần 2 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Week 2 objectives
 
@@ -31,7 +30,6 @@ pre: " <b> 1.2. </b> "
 * I understand how DynamoDB TTL removes old items without a cleanup job.
 * A policy template that grants only `s3:GetObject`, `dynamodb:GetItem`/`PutItem` and `ssm:GetParameter`.
 
-<!-- NHÁP: kết quả tuần 2 tự điền, Minh kiểm lại -->
 
 ### Lessons learned
 

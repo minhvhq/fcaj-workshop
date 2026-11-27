@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-<!-- NHÁP: cả tuần 1 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Week 1 objectives
 
@@ -30,7 +29,6 @@ pre: " <b> 1.1. </b> "
 * The AWS CLI runs with a named profile for a dedicated IAM user; the access key stays outside every code folder.
 * I know where to see cost by service in Cost Explorer, which I used again in week 10 to measure the cost of the test environment.
 
-<!-- NHÁP: kết quả tuần 1 tự điền, Minh kiểm lại -->
 
 ### Lessons learned
 

@@ -32,7 +32,6 @@ I watched the event with one question in mind: when should AI decide, and when s
 - **Every step must be measurable.** With a multi-step system, you need to know which step went wrong, not just that the final answer is wrong.
 - **Cost follows each call.** An AI feature that is cheap in a trial can become expensive in production if the number of model calls is not estimated up front.
 
-<!-- NHÁP: takeaways need Minh's confirmation -->
 
 ### Connection to my work
 

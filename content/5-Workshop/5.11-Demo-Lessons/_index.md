@@ -14,7 +14,6 @@ pre: " <b> 5.11. </b> "
 {{% notice info %}}
 Demo video: Minh will add the link (screen recording: sending a text message, sending an image, viewing logs in CloudWatch).
 {{% /notice %}}
-<!-- DRAFT: add the demo video link before submitting -->
 
 The demo script I use, with a place to verify each step on AWS:
 

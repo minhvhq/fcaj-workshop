@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-<!-- NHÁP: personal impressions, Minh rereads and edits before submitting -->
 
 ### Overall impressions
 

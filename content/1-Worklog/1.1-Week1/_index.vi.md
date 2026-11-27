@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-<!-- NHÁP: cả tuần 1 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Mục tiêu tuần 1
 
@@ -30,7 +29,6 @@ pre: " <b> 1.1. </b> "
 * AWS CLI chạy bằng named profile của IAM user riêng; access key nằm ngoài mọi thư mục code.
 * Biết chỗ xem chi phí theo service trong Cost Explorer, dùng lại ở tuần 10 khi đo chi phí môi trường test.
 
-<!-- NHÁP: kết quả tuần 1 tự điền, Minh kiểm lại -->
 
 ### Bài học rút ra
 

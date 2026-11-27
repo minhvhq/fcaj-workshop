@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-<!-- NHÁP: cả tuần 3 chưa có bằng chứng (trước khi có repo), Minh kiểm lại trước khi nộp -->
 
 ### Mục tiêu tuần 3
 
@@ -31,7 +30,6 @@ pre: " <b> 1.3. </b> "
 * Hiểu rằng Lambda cấp CPU theo memory và pha INIT có giới hạn thời gian; kiến thức này dùng lại khi chọn 3008 MB cho Lambda `ai` ở tuần 10.
 * Viết được truy vấn Logs Insights lọc log theo trường JSON.
 
-<!-- NHÁP: kết quả tuần 3 tự điền, Minh kiểm lại -->
 
 ### Bài học rút ra
 
