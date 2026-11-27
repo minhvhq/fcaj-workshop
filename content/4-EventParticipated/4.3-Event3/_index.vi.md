@@ -46,6 +46,8 @@ Vận hành một môi trường chung là việc của cả nhóm, nhưng ngư�
 
 ### Ảnh check-in
 
-{{% notice info %}}
-Ảnh check-in rõ mặt: Minh bổ sung.
-{{% /notice %}}
+![Check-in cùng các bạn tham dự trong hội trường AWS Student Community Day Vietnam 2026](/images/4-EventParticipated/event3-checkin.jpg)
+
+![Nhận quà lưu niệm AWS Student Builder Group trên sân khấu sự kiện](/images/4-EventParticipated/event3-stage.jpg)
+
+![Ảnh chụp tập thể người tham dự và ban tổ chức tại AWS Student Community Day Vietnam 2026](/images/4-EventParticipated/event3-group.jpg)

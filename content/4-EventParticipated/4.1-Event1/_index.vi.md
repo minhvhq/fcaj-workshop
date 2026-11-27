@@ -43,6 +43,6 @@ Tháng 10, khi nhận spike OCR (AI-20), tôi bắt đầu từ bộ 50 ảnh c�
 
 ### Ảnh check-in
 
-{{% notice info %}}
-Ảnh check-in rõ mặt: Minh bổ sung.
-{{% /notice %}}
+![Check-in cạnh standee buổi Buildrathon Kickoff tại văn phòng AWS TP.HCM](/images/4-EventParticipated/event1-solo.jpg)
+
+![Chụp ảnh nhóm cùng các thực tập sinh FCAJ trước bức tường It's Still Day 1](/images/4-EventParticipated/event1-checkin.jpg)

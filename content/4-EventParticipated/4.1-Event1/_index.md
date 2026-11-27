@@ -43,6 +43,6 @@ In October, when I took the OCR spike (AI-20), I started from a 50-image labelle
 
 ### Check-in photos
 
-{{% notice info %}}
-Check-in photo with a clear face: Minh will add it.
-{{% /notice %}}
+![Check-in next to the Buildrathon Kickoff standee at the AWS Ho Chi Minh City office](/images/4-EventParticipated/event1-solo.jpg)
+
+![Group check-in with fellow FCAJ interns in front of the It's Still Day 1 wall](/images/4-EventParticipated/event1-checkin.jpg)

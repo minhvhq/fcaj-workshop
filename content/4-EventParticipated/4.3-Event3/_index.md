@@ -46,6 +46,8 @@ Running a shared environment is a team job, but whoever builds it must keep perm
 
 ### Check-in photos
 
-{{% notice info %}}
-Check-in photo with a clear face: Minh will add it.
-{{% /notice %}}
+![Check-in with fellow attendees inside the event hall at AWS Student Community Day Vietnam 2026](/images/4-EventParticipated/event3-checkin.jpg)
+
+![On stage receiving AWS Student Builder Group gifts during the event](/images/4-EventParticipated/event3-stage.jpg)
+
+![Group photo of attendees and organisers at AWS Student Community Day Vietnam 2026](/images/4-EventParticipated/event3-group.jpg)

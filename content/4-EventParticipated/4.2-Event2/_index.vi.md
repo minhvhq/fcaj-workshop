@@ -22,6 +22,8 @@ pre: " <b> 4.2. </b> "
 - Các phiên kỹ thuật chọn lọc thuộc track "Builders x AI".
 - Giao lưu tại chỗ với kỹ sư và người làm công nghệ ở TP.HCM.
 
+![Màn hình phát trực tiếp phiên chia sẻ về Multi-Agent Orchestration tại buổi Watch Party văn phòng AWS TP.HCM](/images/4-EventParticipated/event2-session.jpg)
+
 ### Điều tôi tiếp thu
 
 Tôi xem sự kiện này với một câu hỏi trong đầu: khi nào nên để AI tự quyết, khi nào nên để code quyết. Những gì tôi ghi lại:
@@ -44,6 +46,6 @@ Một hệ thống AI đáng tin không đến từ model lớn nhất, mà từ
 
 ### Ảnh check-in
 
-{{% notice info %}}
-Ảnh check-in rõ mặt: Minh bổ sung.
-{{% /notice %}}
+![Check-in với thẻ tham dự AWS Cloud & AI Day Vietnam 2026 tại văn phòng AWS TP.HCM](/images/4-EventParticipated/event2-badge.jpg)
+
+![Ảnh chụp tập thể tại buổi Watch Party ở TP.HCM](/images/4-EventParticipated/event2-checkin.jpg)

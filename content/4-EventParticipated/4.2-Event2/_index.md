@@ -22,6 +22,8 @@ pre: " <b> 4.2. </b> "
 - Selected technical sessions from the "Builders x AI" track.
 - On-site networking with engineers and tech practitioners in Ho Chi Minh City.
 
+![Live stream of the keynote session on Multi-Agent Orchestration at the AWS Ho Chi Minh City Watch Party](/images/4-EventParticipated/event2-session.jpg)
+
 ### What I took away
 
 I watched the event with one question in mind: when should AI decide, and when should code decide? What I noted:
@@ -44,6 +46,6 @@ A trustworthy AI system does not come from the biggest model, but from every ste
 
 ### Check-in photos
 
-{{% notice info %}}
-Check-in photo with a clear face: Minh will add it.
-{{% /notice %}}
+![Check-in with my attendee badge at the AWS Cloud & AI Day Vietnam 2026 Watch Party](/images/4-EventParticipated/event2-badge.jpg)
+
+![Group photo of attendees at the Ho Chi Minh City Watch Party](/images/4-EventParticipated/event2-checkin.jpg)
